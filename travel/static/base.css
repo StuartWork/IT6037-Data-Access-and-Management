@@ -1,0 +1,20 @@
+footer {
+	position: absolute;
+	left: 0px;
+	bottom: 0px;
+	width: 100%;
+}
+
+.row ul li {
+	border: 1px solid #1f2021;
+	width: 100px;
+	margin-top: 3px;
+	text-align: center;
+	background-color: #1f2021;
+	color: #777;
+}
+
+.logo {
+	background-image: url('./images/Logo.png');
+	background-size: contain;
+}
